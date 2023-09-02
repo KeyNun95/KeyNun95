@@ -3,16 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keynun95&label=Profile%20views&color=0e75b6&style=flat" alt="keynun95" /> </p>
 
-Welcome and make yourselves at home! I'm a bi-lingual software engineer with a background in biomedical science and research who found herself interested in the world of tech when she stumbled upon some JavaScript. I've worked in different industries from food and hospitality to research and veterinary medicine. Now I've done a career change and took the plunge when I earned my certificate from General Assembly's Software Engineering Immersive program. What I love about software engineering is the challenge and fast-pace nature of it, which is something I have experience in. I'm interested in a career where I am always being pushed to learn new skills and grow every day. When I am not learning coding languages, I'm learning other languages in general. I also enjoy going to concerts, movies or the park with my dog. 
+<img align="right" alt="coding-girl" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
+
+Welcome and make yourselves at home! I'm a bi-lingual software engineer with a background in biomedical science and research who found herself interested in the world of tech when she stumbled upon some JavaScript. After working in different industries like hospitality, research and veterinary medicine, I've done a career change and earned my certificate from General Assembly's Software Engineering Immersive program. What I love about software engineering is the challenging fast paced nature of it and I look forward to a career where I am always learning new skills.
 
 <h4 align="left">Please reach out to me to learn more!</h4>
 <p align="left">
 <a href="https://linkedin.com/in/keylanunez17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keylanunez17" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on my profile page
+- 💻 I’m currently working on my profile page
+- 🎧 I enjoy listening to podcasts and going to concerts
 - 🍑 I'm based in Atlanta, GA
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning React Native
 - 🤝 I'm open to collaborating on projects as a front end developer
 - 😄 Pronouns: She/Her/Hers
 
