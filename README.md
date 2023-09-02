@@ -21,7 +21,7 @@ Welcome and make yourselves at home! My name is Keyla Nunez and I reside in Atla
 
 <h3>Stats</h3>
 <a href="https://github.com/KeyNun95/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KeyNun95&show_icons=true&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KeyNun95&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/KeyNun95/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KeyNun95&layout=compact&langs_count=8&card_width=320" />
