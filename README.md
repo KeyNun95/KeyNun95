@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keynun95&label=Profile%20views&color=0e75b6&style=flat" alt="keynun95" /> </p>
 
-Welcome and make yourselves at home! My name is Keyla Nunez and I reside in Atlanta, Georgia. I'm a bi-lingual software engineer with a background in biomedical science and research who found herself interested in the world of tech when she stumbled upon some JavaScript. I've worked in different industries from food and hospitality to research and veterinary medicine. Now I've done a career change and took the plunge when I earned my certificate from General Assembly's Software Engineering Immersive program. What I love about software engineering is the challenge and fast-pace nature of it, which is something I have experience in. I'm interested in a career where I am always being pushed to learn new skills and grow every day. When I am not learning coding languages, I'm learning other languages in general. I also enjoy going to concerts, movies or the park with my dog. 
+Welcome and make yourselves at home! I'm a bi-lingual software engineer with a background in biomedical science and research who found herself interested in the world of tech when she stumbled upon some JavaScript. I've worked in different industries from food and hospitality to research and veterinary medicine. Now I've done a career change and took the plunge when I earned my certificate from General Assembly's Software Engineering Immersive program. What I love about software engineering is the challenge and fast-pace nature of it, which is something I have experience in. I'm interested in a career where I am always being pushed to learn new skills and grow every day. When I am not learning coding languages, I'm learning other languages in general. I also enjoy going to concerts, movies or the park with my dog. 
 
 <h4 align="left">Please reach out to me to learn more!</h4>
 <p align="left">
@@ -11,7 +11,7 @@ Welcome and make yourselves at home! My name is Keyla Nunez and I reside in Atla
 </p>
 
 - 🔭 I’m currently working on my profile page
-- 🌎 I'm based in Atlanta, GA
+- 🍑 I'm based in Atlanta, GA
 - 🌱 I’m currently learning Next.js
 - 🤝 I'm open to collaborating on projects as a front end developer
 - 😄 Pronouns: She/Her/Hers
