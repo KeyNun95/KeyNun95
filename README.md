@@ -12,10 +12,10 @@ Welcome and make yourselves at home! I'm a bi-lingual software engineer with a b
 <a href="https://linkedin.com/in/keylanunez17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keylanunez17" height="30" width="40" /></a>
 </p>
 
-- 💻 I’m currently working on my portfolio page
+- 💻 I’m currently working on React To-Do
 - 🎧 I enjoy listening to podcasts and going to concerts
 - 🍑 I'm based in Atlanta, GA
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React
 - 🤝 I'm open to collaborating on projects as a front end developer
 - 😄 Pronouns: She/Her/Hers
 
